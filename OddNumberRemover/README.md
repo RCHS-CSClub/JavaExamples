@@ -14,3 +14,9 @@ Sample APCSA Problems #1:
     -In For Loops, you can get creative with the parameters, you don't have to stick to 
     (int i=0; i<x; i++>), you can do something like (int g=1; g<Math.pow(10,places); g*=10)
     -There is no correct solution, but try your best!
+
+# Solution
+
+    My solution located in SOLUTION-OddNumberRemover.java. 
+    Keep in mind, this is only one possible solution. 
+    Also viewable at: https://replit.com/@EricLind/OddNumberRemover?v=1
