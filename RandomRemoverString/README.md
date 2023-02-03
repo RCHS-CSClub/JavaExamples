@@ -3,7 +3,7 @@ Sample APCSA Problems #1:
 
 # Challenge:
 
-    Create a Java program that accepts a string and integer number (you can have the string and number sit in code, or use the scanner class) and removes a number of indexes randomly equal to the integer number provided.
+    Create a Java program that accepts a string and integer number (you can have the string and number sit in code, or use the scanner class) and removes a number of indexes in the string randomly equal to the integer number provided.
 
 # Suggestions:
 
